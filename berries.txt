@@ -1,2 +1,3 @@
 Las fresas son rojas.
 Las frambuesas son rosadas.
+Los arandanos son azules.
